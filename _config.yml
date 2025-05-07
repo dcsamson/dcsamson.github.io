@@ -119,9 +119,9 @@ author:
   email            : "danielle.samson@colostate.edu"
 
   links:
-    - label: "Email"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "www.linkedin.com/in/danielle-c-samson"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
