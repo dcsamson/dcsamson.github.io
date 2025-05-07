@@ -116,7 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a scientist!"
   location         : "the lab"
-  email            : "danielle.samson@colostate.edu"
+
 
   links:
     - label: "Email"
