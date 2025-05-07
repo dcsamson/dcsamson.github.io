@@ -141,9 +141,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "www.linkedin.com/in/danielle-c-samson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
