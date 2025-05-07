@@ -116,7 +116,10 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a scientist!"
   location         : "the lab"
-  email            :
+  email            : "danielle.samson@colostate.edu"
+  label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/danielle-c-samson" # OPTIONAL
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
