@@ -118,25 +118,25 @@ author:
   location         : "the lab"
   email            : "danielle.samson@colostate.edu"
 
-  links:
-    - label: "LinkedIn"
+ links:
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "www.linkedin.com/in/danielle-c-samson"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:YOUREMAILADDRESS" # OPTIONAL
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "link to your Github" # OPTIONAL
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/danielle-c-samson" # OPTIONAL
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "link to your ResearchGate" # OPTIONAL
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "link to your Google Scholar" # OPTIONAL
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "link to this site" # OPTIONAL
 
 # Site Footer
 footer:
