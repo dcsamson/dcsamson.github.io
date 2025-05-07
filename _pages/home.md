@@ -13,12 +13,12 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: 2025-01-09 NT CLV2 and CRN - Daniella_1 CLV2 ER_ch01_SV.jpg # no quotes this time
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "O'Connor Lab PhD Student"
     url: "/resources/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Link to CMB SharePoint"
     
 feature_row2:
   - image_path: path_to_your_image.png # no quotes this time
