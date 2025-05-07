@@ -118,7 +118,7 @@ author:
   location         : "the lab"
   email            : "danielle.samson@colostate.edu"
 
- links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:YOUREMAILADDRESS" # OPTIONAL
