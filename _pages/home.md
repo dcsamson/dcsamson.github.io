@@ -26,7 +26,7 @@ feature_row2:
     excerpt: "CM 515 Lecture Descriptions"
     url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules"
     btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Link to Lecture Materials"
     
 feature_row3:
   - image_path: assets/images/Screenshot 2025-05-15 092948.png
