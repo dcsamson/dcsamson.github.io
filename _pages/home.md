@@ -13,28 +13,29 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: assets/images/2025-01-09 NT CLV2 and CRN - Daniella_1 CLV2 ER_ch01_SV.jpg # no quotes this time
+  - image_path: assets/images/2025-01-09 NT CLV2 and CRN - Daniella_1 CLV2 ER_ch01_SV.jpg
     alt: "Resources"
     excerpt: "Link to CM515 GitHub"
-    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/README.md" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/README.md"
+    btn_class: "btn--inverse"
     btn_label: "Link to CM515 Resources"
     
 feature_row2:
-  - image_path: assets/images/Screenshot 2025-05-15 091702.png # no quotes this time
+  - image_path: assets/images/Screenshot 2025-05-15 091702.png
     alt: "Lectures"
     excerpt: "CM 515 Lecture Descriptions"
-    url: "(https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules)" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules"
+    btn_class: "btn--inverse"
     btn_label: "Whatever you want your button to say"
     
 feature_row3:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/Screenshot 2025-05-15 092948.png
     alt: "Image Analysis Project"
     excerpt: "Enter a relatively short description here"
-    url: "[/(https://cmb.colostate.edu/](https://cmb.colostate.edu/)" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
+    url: "https://cmb.colostate.edu/"
+    btn_class: "btn--inverse"
     btn_label: "Whatever you want your button to say"
+
 
 feature_row4:
   - image_path: path_to_your_image.png # no quotes this time
