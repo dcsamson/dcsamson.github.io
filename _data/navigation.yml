@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Resources"
-    url: /resources/
+    url: https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/modules/00_Setup/Readme.md
   - title: "Lectures"
-    url: /lectures/
-  - title: "Image Analysis Project"
-    url: /image_analysis_project/
+    url: https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules
+  - title: "CMB Website"
+    url: https://cmb.colostate.edu/
   - title: "ggplot Project"
     url: /ggplot_project/
