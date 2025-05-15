@@ -14,7 +14,7 @@ feature_row:
   - image_path: assets/images/Screenshot 2025-05-15 121338.png
     alt: "Data Visualization Module"
     #title: "Genotype by Genome"
-    excerpt: "Molecular diagnostics for marine mammal parasites"
+    excerpt: "Final output of Data Visualization Module using ggPlot "
     url: "/projects_mmp"
     btn_class: "btn--info"
     btn_label: "Learn more"
