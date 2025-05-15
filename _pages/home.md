@@ -16,7 +16,7 @@ feature_row1:
   - image_path: assets/images/2025-01-09 NT CLV2 and CRN - Daniella_1 CLV2 ER_ch01_SV.jpg # no quotes this time
     alt: "Resources"
     excerpt: "Link to CM515 GitHub"
-    url: "[/resources/](https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/README.md)" # note that these can also be full urls that take people to other sites
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/README.md" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Link to CM515 Resources"
     
