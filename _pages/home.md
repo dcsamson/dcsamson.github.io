@@ -16,7 +16,7 @@ feature_row1:
   - image_path: assets/images/2025-01-09 NT CLV2 and CRN - Daniella_1 CLV2 ER_ch01_SV.jpg
     alt: "Resources"
     excerpt: "Link to CM515 GitHub"
-    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/README.md](https://dcsamson.github.io/Resources/"
+    url: "/Resources/"
     btn_class: "btn--inverse"
     btn_label: "CM515 Resources"
     
