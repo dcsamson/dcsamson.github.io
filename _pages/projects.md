@@ -4,16 +4,16 @@ permalink: /projects/
 hidden: true
 header:
   overlay_image: /assets/images/headers/projects_single-overlay.jpeg
-title: "Research Projects"
-tagline: "Recent and ongoing research projects"
+title: "CM515 Projects"
+tagline: "Homeworks and Projects"
 author_profile: true
 read_time: true
 share: false
 classes: wide
 feature_row:
-  - image_path: /assets/images/seal.jpeg
-    alt: "marine mammal parasites"
-    #title: "Marine Mammal Parasites"
+  - image_path: assets/images/Screenshot 2025-05-15 121338.png
+    alt: "Data Visualization Module"
+    #title: "Genotype by Genome"
     excerpt: "Molecular diagnostics for marine mammal parasites"
     url: "/projects_mmp"
     btn_class: "btn--info"
