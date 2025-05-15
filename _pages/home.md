@@ -22,7 +22,7 @@ feature_row1:
     
 feature_row2:
   - image_path: assets/images/Screenshot 2025-05-15 091702.png
-    alt: "Lectures"
+    alt: "Computational Resources"
     excerpt: "CM 515 Lecture Descriptions"
     url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules"
     btn_class: "btn--inverse"
@@ -31,10 +31,10 @@ feature_row2:
 feature_row3:
   - image_path: assets/images/Screenshot 2025-05-15 092948.png
     alt: "CSU CMB Website"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Click to explore CSU CMB program requirements"
     url: "https://cmb.colostate.edu/"
     btn_class: "btn--inverse"
-    btn_label: "Whatever you want your button to say"
+    btn_label: "CMB Website"
 
 
 feature_row4:
