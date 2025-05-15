@@ -1,6 +1,7 @@
 ---
-layout: single 
-permalink: [Completed_Projects/](https://github.com/dcsamson/dcsamson.github.io/blob/14984bd844fcbcae56bf7d9ef148dbf91ce147a2/_pages/Completed_Projects.md) # for example, for the resources page you would put resources
+layout: single
+title: "Completed Projects"
+permalink: /completed-projects/  # this is the URL path
 hidden: true
 header:
   overlay_image: /assets/path/to/image.png
