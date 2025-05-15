@@ -18,17 +18,17 @@ feature_row:
     url: "/projects_mmp"
     btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/leech.jpeg
-    alt: "leech iDNA"
-    #title: "Leech iDNA"
-    excerpt: "Leech iDNA for biodiversity surveys and forensic cases"
+  - image_path: assets/images/Screenshot 2025-05-13 104119.png
+    alt: "Image Processing"
+    #title: "Image Processing Pipeline"
+    excerpt: "output of Image Processing Module using CellProfiler"
     url: "/projects_idna/"
     btn_class: "btn--success"
     btn_label: "Learn more"
-  - image_path: /assets/images/lion.jpeg
-    alt: "future projects"
-    #title: "Future Projects"
-    excerpt: "Characterizing helminth and viral diversity in South African wildlife"
+  - image_path: assets/images/samson_2D_genomics_homework.png
+    alt: "2D Genomics"
+    #title: "CHiP Seq Results"
+    excerpt: "output from 2D Genomics Module graphing CHiP Seq Results"
     url: "/projects_sawp/"
     btn_class: "btn--warning"
     btn_label: "Learn more"      
