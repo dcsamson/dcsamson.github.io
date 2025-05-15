@@ -15,14 +15,14 @@ feature_row:
     alt: "Data Visualization Module"
     #title: "Genotype by Genome"
     excerpt: "Final output of Data Visualization Module using ggPlot "
-    url: "/projects_mmp"
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/10_Presenting_Data"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: assets/images/Screenshot 2025-05-13 104119.png
     alt: "Image Processing"
     #title: "Image Processing Pipeline"
     excerpt: "output of Image Processing Module using CellProfiler"
-    url: "/projects_idna/"
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/13_Image_Analysis/15_Image_Analysis"
     btn_class: "btn--success"
     btn_label: "Learn more"
   - image_path: assets/images/samson_2D_genomics_homework.png
