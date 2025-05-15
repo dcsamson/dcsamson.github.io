@@ -40,10 +40,10 @@ feature_row3:
 feature_row4:
   - image_path: path_to_your_image.png # no quotes this time
     alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
-    url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
+    excerpt: "CM 515 Assignments"
+    url: "https://dcsamson.github.io/projects/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
+    btn_label: "Click to see Projects" 
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
