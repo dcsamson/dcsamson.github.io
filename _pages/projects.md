@@ -29,7 +29,7 @@ feature_row:
     alt: "2D Genomics"
     #title: "CHiP Seq Results"
     excerpt: "output from 2D Genomics Module graphing CHiP Seq Results"
-    url: "/projects_sawp/"
+    url: "https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/11_2D_Genomics"
     btn_class: "btn--warning"
     btn_label: "Learn more"      
 ---
