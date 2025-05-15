@@ -1,6 +1,6 @@
 ---
 layout: single 
-permalink: /_pages/Completed Projects/ # for example, for the resources page you would put resources
+permalink: https://github.com/dcsamson/dcsamson.github.io/blob/4f6bceb426e045d89b11b4af38c4d10bc544b5b6/_pages/Completed%20Projects # for example, for the resources page you would put resources
 hidden: true
 header:
   overlay_image: /assets/path/to/image.png
