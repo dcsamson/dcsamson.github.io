@@ -30,7 +30,7 @@ feature_row2:
     
 feature_row3:
   - image_path: assets/images/Screenshot 2025-05-15 092948.png
-    alt: "Image Analysis Project"
+    alt: "CSU CMB Website"
     excerpt: "Enter a relatively short description here"
     url: "https://cmb.colostate.edu/"
     btn_class: "btn--inverse"
