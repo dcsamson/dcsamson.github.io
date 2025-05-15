@@ -39,7 +39,7 @@ feature_row3:
 
 feature_row4:
   - image_path: path_to_your_image.png # no quotes this time
-    alt: "ggplot Project"
+    alt: "CM 515 Assignment"
     excerpt: "CM 515 Assignments"
     url: "https://dcsamson.github.io/projects/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
