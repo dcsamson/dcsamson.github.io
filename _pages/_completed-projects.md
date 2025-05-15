@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Completed Projects"
-permalink: /completed-projects/  # this is the URL path
+permalink: /_completed-projects/  # this is the URL path
 hidden: true
 header:
   overlay_image: /assets/path/to/image.png
