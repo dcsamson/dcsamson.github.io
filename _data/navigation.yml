@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Resources"
-    url: https://github.com/Colorado-State-University-CMB/CM515-course-2025/blob/main/modules/00_Setup/Readme.md
+    url: /Resources/
   - title: "Lectures"
     url: https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules
   - title: "CMB Website"
