@@ -38,7 +38,7 @@ feature_row3:
 
 
 feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/2025-01-09 NT CLV2 and CRN - Daniella_2 - CRN memYFP_ch01_SV.jpg
     alt: "CM 515 Assignment"
     excerpt: "CM 515 Assignments"
     url: "https://dcsamson.github.io/projects/" # note that these can also be full urls that take people to other sites
