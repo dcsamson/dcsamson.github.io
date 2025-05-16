@@ -144,21 +144,10 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "danielle.samson@colostate.edu" # OPTIONAL
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "link to your Github" # OPTIONAL
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/danielle-c-samson" # OPTIONAL
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "link to your ResearchGate" # OPTIONAL
-    - label: "Google Scholar"
-      icon: "fab fa-google"
-      url: "link to your Google Scholar" # OPTIONAL
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "link to this site" # OPTIONAL
+      url: "https://www.linkedin.com/in/danielle-c-samson/" # OPTIONAL
+
 
 
 # Reading Files
