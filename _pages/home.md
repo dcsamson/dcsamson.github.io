@@ -56,11 +56,11 @@ Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-Univer
 
 {% include feature_row id="feature_row2" type= "left" %}
 
-# Image Analysis Project
+# CSU CMB
 
 {% include feature_row id="feature_row3" type= "left" %}
 
-# ggplot Project
+# Projects
 
 {% include feature_row id="feature_row4" type= "left" %}
 
